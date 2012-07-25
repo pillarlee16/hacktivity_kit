@@ -1,0 +1,26 @@
+STEP 3
+SAMPLE LESSON PLAN
+
+Superheroes of the Open Web
+
+Synopsis: In this hands-on workshop, learners aged 10 and up play, deconstruct and modify websites in order to understand how to create content for, and build, webpages. Participants use the Mozilla Hackasaurus tools to guide them through the process of remixing images, text and style while learning basic web design and programming concepts. Participants experiment with the X-Ray Goggles bookmarklet, a tool that allows users to see and manipulate the HTML and CSS that make up webpages.
+Using the Goggles and other open source web-based tools, participants will respond to design challenges that offer them a chance to use these newly acquired programming skills.
+
+Duration: This three-part lesson plan can either take one full day or be broken up into separate modules.
+
+Badges
+Learning today happens everywhere, not just in the classroom. But it’s often difficult to get recognition for skills and achievements that happen outside of school. Mozilla’s Open Badges project is working to solve that problem, making it easy for anyone to issue, earn and display badges across the web through a shared infrastructure that’s free and open to all.
+The result: helping learners everywhere display 21st century skills, unlock career and educational opportunities, and level up in their life and work.
+
+Assessment: A Hackasaurus Superheroes of the Open Web Learning Rubric is available for learner assessment at the end of this section.
+
+1. Big ideas of the day:
+• Hacking means changing a piece of something to create something new
+• Web designers get inspired by existing websites to come up with new ones • Webpages are written with HTML and styled with CSS
+• Websites are dynamic systems that are easily changeable
+• A website designer works with inter-related parts
+• Parts of a webpage include HTML, CSS, graphic assets and text content
+• The open web is a place where anyone can participate and contribute information
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

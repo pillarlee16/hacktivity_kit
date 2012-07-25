@@ -1,0 +1,46 @@
+LEARNING RUBRIC
+HACKTIVITY KIT
+
+
+Superheroes of the Open Web Assessment
+
+Badge WORDSMITH
+Type Specialist
+Learning Goals
+• Develop skill of writing for the web • Advanced remixes of html and web browsing/ research
+HACKtivities to Complete
+• Visit a website
+• Use X-ray goggles to hack into a paragraph on the site
+• Write a story based on superhero created in Producer badge
+
+Badge SUPER STYLER
+Type Skill
+Learning Goals
+• Gain basic understanding of CSS and its functions
+• Demonstrates ability to impact the design of a webpage using CSS functions
+HACKtivities to Complete
+• Incorporate style hacks into their designs by changing the computed style of elements on a page by using Hackasaurus goggles and change the style by clicking “R”
+
+Badge WEBMAKER
+Type Skill
+Learning Goals
+• Demonstrate basic understanding of domain
+• Understand the box model and selectors
+• Demonstrates an understanding of DOM
+HACKtivities to Complete
+• Open up webpad and build web pages using original content (e.g. bio of superhero) in webpad
+• Create a website using webpad
+• Incorporate styles into the hacks • Publish webpage within unique URL
+
+Badge PEER CODER
+Type Mentor
+Learning Goals
+• Demonstrate ability to work collaboratively
+• Demonstrate ability to create web content that is accessible for other users
+• Demonstrate ability to code html and/or CSS with a collaborator
+HACKtivities to Complete
+• Nomination from a peer during hack jam
+• Assisted another participant/peer with coding and CSS styling
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

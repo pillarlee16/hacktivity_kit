@@ -1,0 +1,35 @@
+STEP 3
+MODULE 3
+continued
+
+Producer Wordsmith Webmaker Peer Coder ... which one are you?
+
+Tour the stations
+• Have participants visit the various stations and allow them to work either
+in groups or individually; If possible, it is ideal to have facilitators at each station to support participants
+
+4. Presentations
+
+• Have participants talk about their superheroes and display the work they have done
+• Following the presentations, facilitators should direct participants to other resources in their community or online to learn more about hacking and web design/development
+• Provide individual constructive feedback during presentations
+
+5. Pledging for badges
+
+At each station, participants should be able to pledge for a Producer, Word- smith or Webmaker badge and nominate someone for a Peer Coder badge.
+
+To qualify for the Producer badge, participants will need to complete the following tasks:
+• Design the visual representation of a superhero
+• Prepare content for the web
+• Place content on a website
+• Superpower: Design Dexterity
+
+To qualify for the Wordsmith badge, participants will need to complete the following tasks:
+Participants must complete the following tasks:
+• Visit a news website
+• Using the X-Ray Goggles, hack into a paragraph on the site
+• Write a story about how the partivipant’s character saved or protected the open web
+• Superpower: Ciphering
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

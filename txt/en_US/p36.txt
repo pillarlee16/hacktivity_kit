@@ -1,0 +1,18 @@
+CSS CHEAT SHEET
+
+It is used to indicate where a unit can be used. Don't forget to add % or px after the number depending on what you're using.
+
+Remember to use American spellings.
+
+Writing CSS
+
+Color
+
+Lists
+
+Text
+
+The Box Model
+Total width of a box = width + margin + padding + border
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

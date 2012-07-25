@@ -1,0 +1,27 @@
+STEP 1
+HTML AND CSS BASICS
+
+What is HTML?
+
+HTML is a special language used to tell computers how to build webpages so that humans can consume them. Here’s a really simple web page:
+
+I can <em>hear</em> you!
+
+People with vision will see this page as a single line of text with the word hear italicized. That’s because the word is wrapped in what we call tags that tell the computer to emphasize anything between them. If a blind person were listening to the webpage, a computerized voice might place emphasis on the word hear instead.
+
+The combination of an opening tag — in this case, <em> —its corresponding closing tag — </em>—and the content in between is called an element. It’s a fundamental building block of a webpage.
+
+There are many kinds of elements. Aside from the <em> element, one of the most useful elements is <a>, which can be used like this:
+
+<a href=“http://wikipedia.org”>Wikipedia</a> is cool.
+
+This element is slightly more complex because it includes an attribute, or piece of information that adds meaning to the element’s content. In this case, the href attribute tells a computer that “Wikipedia” is associated with — or hyperlinked to—the website wikipedia.org. That means clicking (or tapping) on the word will take the reader to Wikipedia’s website.
+
+Some elements don’t actually contain any content, and hence have no closing tag, but represent special kinds of content themselves.
+One example is the <img> tag:
+￼
+This is serious!
+<img src=“http://seriouscat.com/serious_cat_is_serious.jpg”>
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

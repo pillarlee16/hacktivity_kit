@@ -1,0 +1,33 @@
+STEP 1
+FREQUENTLY ASKED QUESTIONS
+
+
+What is meant by the term hack?
+
+When we say hack we are talking about remixing content to make new things for the web. We mean hacking as tinkering or creating something. We are not implying anything malicious or illegal.
+
+Why is teaching kids about the web and hacking important?
+
+Beyond technical knowledge, Hackasaurus helps develop “hacker habits” — the combination of technical and social skills youth need to become active co-creators, shape their environments, and take charge of their own learn- ing. In this fast-paced world, it’s important that youth understand how to tinker with technology rather than just consume it.
+
+What exactly is a hack jam?
+
+A hack jam is a one-day (class period, afternoon or multi-day) session that makes hacking and digital literacy accessible, social and fun. Youth team up to solve design challenges through experimenting with Hackasaurus tools and learn from each other while working on actual problems. Sessions are run by local organizations and volunteers who offer a flexible DIY curriculum of hands-on projects that teach HTML and CSS.
+
+Who devised the curriculum?
+
+The curricular content for the Hack jam is based on Hackasaurus
+concepts and tools. Hackasaurus is the brainchild of a core team of designers, developers, researchers, curriculum experts, educators and teens. Some of the Hackasaurus curated set of tools are developed by the core collaboration team of the Hive NYC, New York Public Library, YouMedia Chicago and Mozilla, while others are designed by the open source and open education resource community.
+
+What age group is the hack jam intended for?
+
+Right now, 10-15 year olds are the core audience. However, Hackasaurus is creating resources that are flexible enough to be explored and implemented by learners of all ages.
+
+What happens when hack jam participants publish their hacked webpages online?
+
+Mozilla hosts the hacks on a separate Internet domain from the original site they were on, so they can’t be confused with the original. They are, however, publicly visible by anyone on the Internet, so don’t be surprised if they show up in search results!
+
+For more details on this topic, please visit our online FAQ at: https://wiki.mozilla.org/Hackasaurus/FAQ
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

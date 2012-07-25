@@ -1,0 +1,27 @@
+STEP 2
+LEARNING OBJECTIVES
+
+Your event or class should have specific, targeted learning objectives. Here are some of the learning goals for the Hackasaurus project you may wish to borrow or put in your own words.
+
+Browser basics: skills required for “retrieving, presenting and traversing information resources on the world wide web” (wikipedia definition). These include:
+• Identifying where the address bar is within the browser
+• Demonstrating basic ability to tweak the address bar URL
+• Opening multiple browser tabs and switching among them
+• Mastering basic selection of content on a webpage/address bar
+• Mastering “copy” and “paste” function via keyboard shortcuts
+• Using the mouse to point, click, secondary-click (a.k.a. right click) and scroll over objects on the webpage
+• Being able to type non-alphanumeric characters like @, &, <, etc.
+
+Web authoring: skills required for making content and publishing to the world wide web. They include:
+• Understanding the distinction between resource types, e.g. image URLs vs. webpage URLs
+• Identifying and altering element tags, which surround content and apply meaning to it
+• Remixing and creating elements, which are the blocks of code that make up webpages
+• Demonstrating the ability to write a paragraph using HTML and the <p> </p> tags
+• Defining the term CSS (cascading style sheets) • Defining the term url (uniform resource locator) and demonstrating ability to locate the webpage url within the browser
+• Understanding what the open web means
+• Understanding that the web can always be made less open/less free
+— e.g. through firewalls or other methods
+• Understanding what ethical webmaking means
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

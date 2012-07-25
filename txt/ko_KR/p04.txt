@@ -1,0 +1,21 @@
+INTRODUCTION
+
+Hacking is even more social and fun in a group
+
+What is Hackasaurus?
+
+Designed as an open educational resource (OER) as well as an open source project, Hackasaurus spreads skills, attitudes and ethics that help youth thrive in a remixable digital world. By making it easy for tweens and teens to tinker and mess around with the building blocks that make up the web, Hackasaurus helps them move from digital consumers to active producers who see the web as something they can actively produce, remix and make better.
+
+Hackasaurus tools make this easy. Instead of using “kid-ified” sandboxes or artificial languages, the tools let youth hack using their favorite webpages and real programming code. The X-Ray Goggles bookmarklet enables learners to visit any webpage, inspect the code to see how it’s made, remix code to change the page and share their creations with friends. WebPad makes it simple to take the next step, creating a webpage in a matter of seconds. The Hackbook provides bits of commonly used code for easy copying and pasting. And there are more tools in the works.
+
+Hacking is even more social and fun in a group — we call it a “hack jam.” In youth spaces such as libraries, learning centers and youth media centers, learners take part in a flexible DIY curriculum of hands-on projects and webmaking. Just like a music jam, a hack jam gives participants the chance to make something and have others riff off of their work.
+
+Learners come away with fundamental skills like working with the basic components of website programming, HTML (hyper text markup language) and CSS (cascading style sheets); using a web browser and add-ons; prototyping and iterative design; and a conceptual understanding of the web.
+
+Beyond technical knowledge, Hackasaurus helps develop “hacker habits” — the combination of technical and social skills youth need to become active co-creators, shape their environments and take charge of their own learning.
+
+
+Photo Credit: David Wells
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

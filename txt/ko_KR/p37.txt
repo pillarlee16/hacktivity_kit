@@ -1,0 +1,18 @@
+<HACKASAURUS>
+
+X-RAY GOGGLES CHEAT SHEET
+
+R REMIX an element
+I INSPECT an element
+P PUBLISH your hack
+esc ESCAPE to deactivate goggles
+delete or or backspace DELETE an element
+↞ UNDO
+↠ REDO
+↟ ASCEND to parent element
+↡ DESCEND from parent element
+
+www.ahckasaurus.org
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

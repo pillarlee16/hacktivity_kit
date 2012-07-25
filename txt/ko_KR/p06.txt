@@ -1,0 +1,13 @@
+Step 1
+
+HACKTIVITY KIT
+
+Preparing for a Hack Jam
+
+Planning and facilitating a meeting or event should not be a solo affair. Invite youth and facilitators who have experience in the field and/or working with kids and team up with them to develop a game plan or curriculum for the day of the hack jam. You may also want to have some people with technical skills on hand to troubleshoot as well as to act as a creative support team.
+
+In Resources you’ll find a recruitment poster and volunteer sign-up form you can photocopy and distribute. You’ll want prepared for the to be personally well- day as well. If you’re not already comfortable or familiar with webmaking, check out HTML and CSS Basics.
+
+TIP: Consider approaching local universities or tech organizations to act as on-site mentors.
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

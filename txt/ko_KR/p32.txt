@@ -1,0 +1,15 @@
+Resources
+
+HACKTIVITY KIT
+
+In this section you’ll find a selection of support documents you can use as you plan and host your Hackasaurus hack jam. Some might take a little extra work — you might want to make the recruitment poster larger, for instance, and you’ll probably want to cut up the individual badges before the actual event. But otherwise, just photocopy as many copies as you’ll need, distribute — and let the hacking commence!
+
+Recruitment Poster
+Recruitment Form
+HTML Cheat Sheet
+CSS Cheat Sheet
+X-Ray Goggle Cheat Sheet
+Hackasaurus Badges
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

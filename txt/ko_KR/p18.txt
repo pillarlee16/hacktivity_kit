@@ -1,0 +1,42 @@
+STEP 3
+SAMPLE LESSON PLAN
+continued
+
+2. Deliverables:
+• Participants will learn the concept of hacking through physical exercise and online tools
+• Participants will write HTML and constructively think about their roles as webmakers
+
+3. Learning goals:
+• Develop a basic understanding of the different parts that make up a webpage
+• Develop key web programming vocabulary
+• Develop key critical thinking about web terminologies
+• Develop an understanding of how participatory media (i.e. the open web)
+differs from one-directional consumption media (i.e. TV and radio)
+• Draw connections between webmaking, content creation and the participatory
+culture of the open web
+
+4. Skills targeted and learned:
+• Identify & alter element tags, which surround content and apply meaning to it
+• Remix content of element attributes, which appear inside tags and have their values enclosed in quotation marks
+• Remix and create elements, which are the basic building blocks of webpages • Demonstrate the ability to write a paragraph using HTML and <p> </p> tags • Change one part of a webpage to make a new webpage
+• Get inspired by websites and come up with ideas for new projects
+• Use the Hackasaurus X-Ray Goggles bookmarklet and demonstrate ability
+to use its different features
+• Understand the concept of URLs and URLs for images
+
+5. Key questions:
+• What is hacking? Where can we find examples of hacks?
+• How are webpages and websites dynamic systems?
+• Which are the fundamental parts of a webpage?
+• How does a webpage change when you change one of its parts?
+• Why is it important to have open access to the Internet?
+• Why is it important that the web is designed by many individuals?
+• Why is it important for websites to invite participation?
+
+6. Modules
+• Hack the Robot Dance (an icebreaker game)
+• Try on your X-Ray Goggles (a web design tool overview)
+• Create your own Superhero (a design challenge)
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

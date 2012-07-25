@@ -1,0 +1,37 @@
+STEP 3
+MODULE 3
+continued
+
+CREATE YOUR OWN SUPERHERO
+
+3. Facilitator procedure
+Set up the room with several stations for participants to move about organically, including:
+• Hacking station — computers set up with Hackasaurus X-Ray Goggles
+• Prototyping station — paper supplies, scissors, glues, markers, etc.
+• Digital imaging station — camera or computers with digital imaging software
+
+Frame the design challenge by having participants collectively explore prob- lems and strengths of the open web. Engage participants in a discussion about the open web by asking:
+• What would your life be like without the web?
+• Who made the web?
+• How can you tell the web was made by people?
+
+Introduce the concept of the open web:
+• No barrier to entry — anyone can use it to make or play
+• Transparent — you can see how it is made
+• It doesn’t break — because it is not “owned” by any person or organization
+
+Introduce the design challenge:
+We benefit from an open web where anyone can use, see and manipulate content on the Internet. This is a privilege that we don’t want to lose. Every so often there are things that compromise the open web, such as firewalls, or blocking functionality of web browsers. This is something that can be protected — the perfect job for a team of superheroes.
+
+Create a superhero identity to protect the open web:
+• Parameters:
+— The superhero must have a name and visual representation
+— The superhero must have a biography
+— What are his/her superpowers?
+— How did he/she get them?
+— How do his/her superpowers help to protect the web?
+— Does the superhero have a nemesis or face a particular challenge?
+— Hack into a news site using the Goggles to write a story about how the character saved or protected the open web
+Put the content on a webpage that was created or hacked and present it to the group at the end of the day.
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

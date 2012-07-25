@@ -1,0 +1,16 @@
+STEP 4
+I.I. CHECKLIST
+
+q Make sure that the jam space has a stable enough Internet connection for the number of students expected.
+
+q Have laptops or PCs available for students or teams of students.
+
+q Install the most up-to-date version of Firefox, Chrome or Safari on the computers. (Right now the Hackasaurus tools work reliably on the latest versions of Firefox, Chrome and Safari, but support for more browsers is on the way.)
+
+q Check that the Goggles bookmarklet can be installed and works in your setup. If possible, pre-install the bookmarklet on all the computers to save time during the jam.
+
+q Set up a projector to a computer so that you can demo things on a screen that everyone can see and students can share their work.
+
+You can run Firefox and the Goggles off of a USB stick too: http://portableapps.com/apps/internet/firefox_portable Check that this works on the computers though, as some places have firewalls that restrict the use of external devices.
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

@@ -1,0 +1,30 @@
+STEP 3
+MODULE 2
+
+
+Try on Your X-Ray Goggles
+
+1. Overview
+The goal is for participants to create their first webpage by hacking and tinkering with an existing webpage. Participants may pledge for two types of badges — the Navigator badge for learners who are new to web browsing and the Remixer badge for learners who are already familiar with web browsing and are moving on to hacking HTML.
+
+2. Materials you’ll need
+• Computers with high-speed Internet connection
+• Computers available for participants/team of participants
+• Hackasaurus X-Ray Goggles installed on a modern web browser
+e.g. FireFox, Chrome, Safari, Opera, with the latest browser versions updated
+(Please note: Hackasaurus currently does not support Internet Explorer.) • Projector
+• HTML and CSS cheat sheets
+
+3. Facilitator procedure
+Demonstrate how to hack the webpage and then go over the steps in a slow, clear manner:
+• Tell participants that they will be hacking a website
+• Ask participants to call out the name of a website that they regularly visit • If no one responds or if you have slow Internet, go to google.com because it loads fairly quickly
+• Turn on the Goggles. You can do this by clicking on the bookmarklet in your bookmark toolbar
+• Using the Goggles, slowly hover the cursor over objects so that participants can see that the tool is inspecting the code and showing the object tags for each object
+• Hover over an image or some text on the page and hit “R” on your keyboard • Keep this screen up so that participants can see that the code is revealed at this stage
+• Ask participants for help hacking the code. If you are editing text, ask participants what text they would like to replace the text with; if you are changing an image ask participants to name their favorite musician and do a search for that musician online
+• After you have acquired the assets and made the changes, hit the OK button and show everyone the hack
+• Now, show everyone how to do this step by step and, whenever possible, refer back to the steps that you defined for hacking with the Hack this Dance module
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

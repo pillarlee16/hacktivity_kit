@@ -1,0 +1,19 @@
+Table of Contents
+
+HACKTIVITY KIT
+
+Introduction .......................................................................... 3
+Step 1 Preparing for a Hack Jam.............................................. 6
+Step 2 Choose a Theme and set Learning Goals..................... 13
+Step 3 Design the Lesson Plan................................................ 16
+Step 4 Set up for Success......................................................... 29
+Step 5 Work in Teams and Share............................................ 31
+RESOURCES ................................................................................. 32
+	Recruitment Poster
+	Recruitment Form
+	HTML Cheat Sheet
+	CSS Cheat Sheet
+	X-Ray Goggle Cheat Sheet
+	Hackasaurus Badges
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

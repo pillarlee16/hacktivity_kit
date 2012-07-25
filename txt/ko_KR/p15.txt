@@ -1,0 +1,17 @@
+STEP 2
+LEARNING OBJECTIVES
+
+Tool Competencies: skills that demonstrate comfort and competency of the Hackasaurus toolkit, including:
+• Installing and using a bookmarklet
+• Installing and using an add-on
+• Inspecting the HTML and/or CSS of an element on a webpage by using the X-Ray Goggles
+• Changing webpage content locally by hacking
+• Sharing webpage content by sharing a hack
+• Demonstrating ability to impact the design of a webpage by changing
+compositional elements (i.e: header, footer, background, navigation) • Building webpages using HTML in WebPad
+• Demonstrating an understanding that there are resources available on the web for developers by using HTML or CSS snippets from the Hackbook • Demonstrating ability to work collaboratively by coding HTML
+and/or CSS with a peer
+• Demonstratinng ability to create web content that is accessible for other users
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

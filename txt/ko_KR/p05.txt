@@ -1,0 +1,13 @@
+INTRODUCTION
+
+How to use the Hacktivity Kit
+
+This Hacktivity Kit makes it easy for anyone, anywhere, to organize their own hack jam. Building off pilot events run by the Hive Learning Network in New York and Chicago, this kit is full of information and resources to help you facilitate youth events and/or classes that have a focus on webmaking.
+
+This booklet is organized around five steps that guide you through planning and hosting a hack jam using the Hackasaurus suite of tools. Each step explains things you’ll want to consider as you prepare for your webmaking activities. We’ve included everything from pointers on publicizing the event to assessing the participants‘ progress. We have also provided a sample lesson plan. And to help make your hack jam as “plug and play” as possible, we’ve included a Resources section with documents you can print out, whether that be a sign-up sheet for volunteers or a cheat sheet for the X-Ray Goggles.
+
+
+Photo Credit: David Wells
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

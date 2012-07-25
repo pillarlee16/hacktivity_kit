@@ -1,0 +1,27 @@
+STEP 3
+MODULE 3
+continued
+
+To qualify for the Webmaker badge, participants will need to complete the following tasks and show a peer mentor or facilitator the website, who will then distribute the badge:
+• Open up WebPad at http://webpad.hackasaurus.org/
+• Using the content that you created (the bio, news article and visual art), create a website
+• For some helpful snippets of code that could be included in your site, visit Hackbook at http://hackbook.hackasaurus.org/
+• Superpower: Enhanced marksmanship
+Note: The WebPad and Hackbook are in an experimental state as they’re still in development
+
+To qualify for the Peer Coder badge, participants need to be nominated
+by a peer at the jam. A peer coder is someone who:
+• Demonstrates ability to work collaboratively and/or
+• Demonstrates ability to code HTML and/or CSS with a collaborator and/or • Assists another participant with their code
+• Superpower: Invincibility
+
+References:
+Slideshare presentation on the open web from Mark Surman,
+Executive Director of Mozilla Foundation: http://www.slideshare.net/guest6177758/i-heart-the-open-web-1768019 Teaching the open web to teens: http://etherpad.mozilla.com:9000/openweb
+Hackasaurus website: www.hackasaurus.org
+Aviary On-line Photo Editor: http://www.aviaryeducation.com/
+
+
+MORE OPEN WEB RESOURCES HERE!
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

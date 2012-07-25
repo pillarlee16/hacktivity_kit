@@ -1,0 +1,52 @@
+LEARNING RUBRIC
+HACKTIVITY KIT
+
+
+Superheroes of the Open Web Assessment
+
+Badge NAVIGATOR
+Type Skill
+Learning Goals
+• Understand the location and use of the address bar in the browser
+• Understand the use of tabbed browsing
+• Master the “copy” and “paste” function on a computer
+• Understand the term “HTML” • Gain basic navigation skills of web browsing
+• Use the mouse to point, click and scroll over objects on the webpage
+HACKtivities to Complete
+• Open up a browser
+• Identify where the address bar is in the browser
+• Enter a website address in the address bar
+• Open multiple browser tabs and switch between them
+• Master “copy” and “paste” function • Using the mouse to scroll over objects on the page
+
+
+Badge REMIXER
+Type Skill
+Learning Goals
+• Identify and alter element tags, which surround content and apply meaning to it
+• Remix content of element attributes,which appear inside the opening tag and their value is always inside quotation marks
+• Remix and create elements, which are the blocks of code that make up webpages
+• Demonstrate the ability to write a paragraph using HTML andπ the <p> </p> tags
+• Understand local vs cloud hacking • Understand that there are resources available on the web for developers
+• Understand what Mozilla means when we say “hack” & “webmaking”
+HACKtivities to Complete
+• Go to a website
+• Using the goggles, replace an image on the site
+• Using the goggles, change or add text to the webpage
+• Share hacked page with peers • Revisit hackasaurus.org for hackbook/resource page
+
+
+Badge PRODUCER
+Type Specialist
+Learning Goals
+• Advanced remixes of html and web browsing/research
+• Develop basic web production skills
+HACKtivities to Complete
+• Design visual representation of your superhero
+• Prepare content for the web • Place content on a webpage
+
+
+Badges continued on next page...
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

@@ -1,0 +1,20 @@
+Step 3
+
+HACKTIVITY KIT
+
+Design the Lesson Plan
+
+Break the learning goals down into small tasks that can be incorporated into your hack jam. With your team of volunteers and/or co-facilitators think about ways to embed assessment directly into the activity so that it is both a fun design activity and a meaningful learning experience.
+
+Start out by designing ice-breakers and opportunities to get people to contribute to the design challenge and work collectively to make something by the end of the day.
+
+Many events allow for some dedicated instruction combined with experimentation time. We have included a sample lesson plan for you to use as is, or as a template for your event’s theme of the day.
+
+
+TIP: Get familliar with some of the terms used commonly when talking about webmaking.*
+
+
+*Visit the Mozilla Developer Network to learn more: https://developer.mozilla.org/en/Glossary
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

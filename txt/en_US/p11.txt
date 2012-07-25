@@ -1,0 +1,19 @@
+STEP1
+HTML AND CSS BASICS
+
+This takes an image of a cat from seriouscat.com and puts it in the webpage after the words “This is serious!”
+
+Finally, it’s also possible to put elements inside each other, also known as nesting them:
+
+<a href=“http://en.wikipedia.org/wiki/Lolcat”>
+	<img src=”http://seriouscat.com/serious_cat_is_serious.jpg”>
+</a>
+
+This hyperlinks the picture of a cat to the Wikipedia entry on Lolcat.
+
+You can see a complete list of all HTML elements here:
+https://developer.mozilla.org/en/HTML/Element
+
+Credit: seriouscat.com
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

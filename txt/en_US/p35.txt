@@ -1,0 +1,47 @@
+HTML CHEAT SHEET
+
+All content needs to be within the <body> tags.
+
+Writing HTML
+
+Text
+	paragraph
+	unordered list
+	ordered list
+	main heading
+	sub headings
+	bold text
+	italic text
+	hook for inline styling
+
+Links
+	link to external site
+	link to page within site
+	link to element with id in page
+
+Structure
+	group of content
+	A section of the page
+
+Table
+	table
+	table heading
+	table data
+	table row
+
+Form
+	form
+	form label
+	input
+	drop-down box
+	textarea
+	button
+
+Images
+	image
+	figure (containing an image and caption)
+
+Navigation
+
+
+2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

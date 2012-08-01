@@ -1,9 +1,9 @@
-HACKASAURUS
+해커사우르스
 mozilla
 
-HACKTIVITY KIT
-TEACH WEBMAKING
-HOST A JAM
-COLLABORATE WITH OTHERS
+만능키트
+웹 만드는법 가르치기
+잼 주최하기
+협업하기
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

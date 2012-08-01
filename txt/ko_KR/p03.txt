@@ -1,6 +1,6 @@
-INTRODUCTION
+소개
 
-Are you an educator running after-school programming?
+여러분은 방과후 수업의 교사입니까?
 A teacher looking for a way to incorporate digital literacy into your classes? A teenager who wants to run an after-school hacking club? Well, this Hacktivity Kit is for you! Here you’ll find everything you need to help you organize, publicize and run your very own Hackasaurus hack jam.
 The Hackasaurus project is part of Mozilla’s larger learning initiative to inspire people to create and prototype on the web. Hackasaurus gives everyone the power to create content and become an active participant on the web rather than just consuming it passively.
 To do this, Hackasaurus has developed its own suite of downloadable tools that do everything from revealing the foundations of the web to quickly and easily creating webpages.

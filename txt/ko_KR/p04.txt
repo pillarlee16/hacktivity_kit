@@ -1,19 +1,18 @@
-INTRODUCTION
+소개
 
-Hacking is even more social and fun in a group
+해킹은 훨씬 더 사회적이고 재미있는 모임 활동입니다
 
-What is Hackasaurus?
+해커사우르스는 무엇인가요?
 
-Designed as an open educational resource (OER) as well as an open source project, Hackasaurus spreads skills, attitudes and ethics that help youth thrive in a remixable digital world. By making it easy for tweens and teens to tinker and mess around with the building blocks that make up the web, Hackasaurus helps them move from digital consumers to active producers who see the web as something they can actively produce, remix and make better.
+오픈 소스 프로젝트일 뿐만 아니라 열린 교육 자료(Open Educational Resource, OER)로 설계된 해커사우르스는 재조합 가능한 디지털 세상에서 아이들이 잘 성장할 수 있도록 도와줄 기술, 태도 그리고 윤리들을 널리 알리기 위한 프로젝트입니다. 십대들이 웹을 구성하는 요소들을 쉽게 만져볼수 있도록 해줌으로써, 해커사우르스는 그들이 디지털 소비자에서 웹을 그들이 활동적으로 생산하고, 재조합하고 더 나은것으로 만들 수 있는 것으로 볼 수 있는 활동적 생산가가 될 수 있도록 도와줍니다.
 
-Hackasaurus tools make this easy. Instead of using “kid-ified” sandboxes or artificial languages, the tools let youth hack using their favorite webpages and real programming code. The X-Ray Goggles bookmarklet enables learners to visit any webpage, inspect the code to see how it’s made, remix code to change the page and share their creations with friends. WebPad makes it simple to take the next step, creating a webpage in a matter of seconds. The Hackbook provides bits of commonly used code for easy copying and pasting. And there are more tools in the works.
+해커사우르스 도구들은 이것을 쉽게 만들어줍니다. "어린이용" 모래상자나 인공 언어들을 사용하기 보다는, 이 도구들은 아이들에게 그들이 좋아하는 웹 페이지나 진짜 프로그래밍 코드를 뜯어 볼 수 있도록 해줍니다.  엑스레이 고글 북마크는 학습자들이 아무 웹 페이지에 방문해서 어떻게 만들어졌는지 코드를 조사하고, 페이지를 변경하기 위해 코드를 재조합하며 그들의 창작물을 친구들과 공유할 수 있게 만들어 줍니다. WebPad makes it simple to take the next step, creating a webpage in a matter of seconds. 핵북은 쉽게 복사, 붙여넣기 할 수 있는 자주 사용되는 코드들을 제공합니다. 그리고 작업에 쓸 수 있는 더 많은 도구들이 있습니다.
 
-Hacking is even more social and fun in a group — we call it a “hack jam.” In youth spaces such as libraries, learning centers and youth media centers, learners take part in a flexible DIY curriculum of hands-on projects and webmaking. Just like a music jam, a hack jam gives participants the chance to make something and have others riff off of their work.
+해킹은 훨씬 더 사회적이고 재미있는 모임 활동입니다 — 우리는 그것을 "핵 잼" 이라고 부릅니다. 도서관, 학습 센터, 청소년 미디어 센터와 같이 어린이들을 위한 공간에서, 학습자들은 직접 해보는 웹 만들기의 유연한 DIY 커리큘럼에 참여합니다. 마치 음악 잼 처럼, 핵 잼은 참석자들에게 무언가를 만들어보고 have others riff off of their work 할 수 있는 기회를 줍니다.
 
-Learners come away with fundamental skills like working with the basic components of website programming, HTML (hyper text markup language) and CSS (cascading style sheets); using a web browser and add-ons; prototyping and iterative design; and a conceptual understanding of the web.
+학습자들은 웹사이트 프로그래밍의 기본 구성요소인 HTML (hyper text markup language)와 CSS (cascading style sheets)와 같은 기본적인 스킬들, 웹 브라우저와 부가기능 사용법, 프로토타이핑과 반복적 디자인, 그리고 웹의 개념적인 이해 같은 것들을 얻어가게 됩니다.
 
-Beyond technical knowledge, Hackasaurus helps develop “hacker habits” — the combination of technical and social skills youth need to become active co-creators, shape their environments and take charge of their own learning.
-
+기술적인 지식을 넘어서, 해커사우르스는 "해커의 습관" (어린이들이 활동적인 동료 창작자가 되고, 환경을 형성하고 학습에 책임을 지는데 필요한 기술적, 사회적 기술들의 조합) 을 기를수 있도록 도와줍니다.
 
 Photo Credit: David Wells
 

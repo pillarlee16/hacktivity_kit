@@ -1,13 +1,13 @@
-Step 1
+단계 1
 
-HACKTIVITY KIT
+만능키트
 
-Preparing for a Hack Jam
+핵 잼 준비하기
 
-Planning and facilitating a meeting or event should not be a solo affair. Invite youth and facilitators who have experience in the field and/or working with kids and team up with them to develop a game plan or curriculum for the day of the hack jam. You may also want to have some people with technical skills on hand to troubleshoot as well as to act as a creative support team.
+모임이나 행사를 계획하고 가능하게 하는 것은 혼자만의 힘으로 되는것은 아닙니다. 행사에 참여할 아이들과 그 분야에 경험이나 아이들과 행사를 해본 경험이 있고 핵 잼을 위한 게임 계획이나 커리큘럼을 개발하기 위해 팀을 이루어 일해본 경험이 있는 조력자들을 모아야 합니다. 또한 문제를 해결하거나 창의적인 지원팀이 되어줄수 있는 사람들을 필요로 할 것입니다.
 
-In Resources you’ll find a recruitment poster and volunteer sign-up form you can photocopy and distribute. You’ll want prepared for the to be personally well- day as well. If you’re not already comfortable or familiar with webmaking, check out HTML and CSS Basics.
+자료 섹션에서는 복사해서 배포할 수 있는 모집 포스터와 지원자 모집양식이 있습니다. 여러분은 또한 개인적으로도 행사를 위해 준비하고 싶을 수 있습니다. 만약 여러분이 아직 웹 만들기에 대해서 잘 모른다고 생각이들면, HTML과 CSS 기초를 점검해보세요.
 
-TIP: Consider approaching local universities or tech organizations to act as on-site mentors.
+팁: 현장의 멘토로 활동할 수 있는 지역 대학교나 기술 기관들을 알아보는것을 고려해보세요.
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

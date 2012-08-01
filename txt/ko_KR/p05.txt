@@ -1,11 +1,10 @@
-INTRODUCTION
+소개
 
-How to use the Hacktivity Kit
+만능키트 사용법
 
-This Hacktivity Kit makes it easy for anyone, anywhere, to organize their own hack jam. Building off pilot events run by the Hive Learning Network in New York and Chicago, this kit is full of information and resources to help you facilitate youth events and/or classes that have a focus on webmaking.
+만능키트는 누구나 어디서든지 그들 자신만의 핵 잼을 준비하는것을 쉽게 만들어줍니다. Building off pilot events run by the Hive Learning Network in New York and Chicago, 이 키트는 웹 만들기에 초점을 두고 있는 어린이 행사나 수업들을 진행하는데 도움을 주기 위한 정보와 자료들로 가득차 있습니다.
 
-This booklet is organized around five steps that guide you through planning and hosting a hack jam using the Hackasaurus suite of tools. Each step explains things you’ll want to consider as you prepare for your webmaking activities. We’ve included everything from pointers on publicizing the event to assessing the participants‘ progress. We have also provided a sample lesson plan. And to help make your hack jam as “plug and play” as possible, we’ve included a Resources section with documents you can print out, whether that be a sign-up sheet for volunteers or a cheat sheet for the X-Ray Goggles.
-
+이 소책자는 해커사우르스 도구 모움을 사용하여 핵 잼을 계획하고 주최하는 방법을 가이드하는 다섯 단계로 구성되어 있습니다 Each step explains things you’ll want to consider as you prepare for your webmaking activities. 우리는 행사를 널리알리는데 도움이 될만한 방법들부터 참석자들의 진척상황을 평가할 수 있는 방법까지 모든 것들을 포함했습니다. 우리는 또한 교육 계획의 예제도 제공합니다. 그리고 여러분의 핵 잼이 가능한 "plug and play"가 될 수 있도록 도와주기 위해, 자원봉사 모집 양식이나 엑스레이 고글 요약표와 같이 프린트해서 사용할 수 있는 문서들이 있는 자료실 섹션을 준비했습니다.
 
 Photo Credit: David Wells
 

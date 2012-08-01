@@ -1,10 +1,10 @@
 소개
 
 여러분은 방과후 수업의 교사입니까?
-A teacher looking for a way to incorporate digital literacy into your classes? A teenager who wants to run an after-school hacking club? Well, this Hacktivity Kit is for you! Here you’ll find everything you need to help you organize, publicize and run your very own Hackasaurus hack jam.
-The Hackasaurus project is part of Mozilla’s larger learning initiative to inspire people to create and prototype on the web. Hackasaurus gives everyone the power to create content and become an active participant on the web rather than just consuming it passively.
-To do this, Hackasaurus has developed its own suite of downloadable tools that do everything from revealing the foundations of the web to quickly and easily creating webpages.
-This Hacktivity Kit explains these tools and how you can use them to facilitate youth events and/or classes that have a focus on webmaking.
+수업에 디지털 능력을 포함시킬 방법을 찾고 있는 교사인가요? 방과후 해킹 클럽을 만들고 싶은 십대인가요? 자, 여러분을 위한 만능키트가 있습니다! 여러분만을 위한 해커사우르스 핵 잼을 구성하고, 홍보하고, 운영하는데 필요한 모든것을 찾을 수 있을 것입니다.
+해커사우르스 프로젝트는 사람들에 웹 상에서 무언가를 만들고 프로토파이핑하는 방법을 알려주기 위한 Mozilla의 커다란 학습 계획중의 일부입니다. 해커사우르스는 해커사우르스는 모든 이들에게 단지 웹을 수동적으로 소비하기 보다는 콘텐츠를 생산하고 활동적인 참여자가 되기 위한 힘을 줍니다.
+이를 위해, 해커사우르스는 웹의 구조를 빠르게 학습하고 쉽게 웹 페이지를 만들어볼 수 있는 다운로드 가능한 도구들을 개발해왔습니다.
+만능키트는 이러한 도구들을 설명하고 이를 웹만들기에 중점을 두고 있는 어린이 행사나 수업들에 어떻게 적용하는지를 알려줍니다.
 Use the kit, be inspired and wherever possible remix it to work in your school, class or program.
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

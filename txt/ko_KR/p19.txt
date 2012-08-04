@@ -1,5 +1,5 @@
-STEP 3
-MODULE 1
+단계 3
+모듈 1
 
 Hack the Robot Dance
 

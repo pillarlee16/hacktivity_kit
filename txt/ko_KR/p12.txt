@@ -1,25 +1,25 @@
-STEP 1
-HTML AND CSS BASICS
+단계 1
+HTML과 CSS 기초
 
-What is CSS?
+CSS는 무엇인가요?
 
-HTML gives a page structure and meaning, but it’s still quite abstract because it’s meant to be consumed by all kinds of people using all kinds of media. When you want to give a page style that’s specific to a particular medium, you use a different language called CSS.
+HTML은 페이지의 구조와 의미를 부여합니다. 그러나 모든 종류의 매체를 사용하는 모든 사람들에게 의미를 전달 할 수 있도록 만들어졌기 때문에 다소 추상적일 수 있습니다. 특정 매체에서 페이지의 스타일을 구체화하고 싶다면, CSS라고 불리는 다른 언어를 사용하면 됩니다.
 
-One easy way to tinker with CSS is by adding a style attribute to elements in your HTML. The contents of this attribute are CSS properties that tell a computer how to style the element. For example, we can use the color CSS property to set text color:
+CSS를 적용해보는 가장 쉬운 방법은 HTML 요소에 style 이라는 속성을 추가하는 것입니다. 이 속성의 내용들은 컴퓨터에게 이 요소가 어떤 스타일로 나타낼지를 말해주는 CSS 속성들로 채워집니다. 예를 들어, 문자열의 색상을 변경하고 싶다면 color 라는 CSS 속성을 사용할 수 있습니다.
 
 I can <em style=“color: red”>hear</em> you!
 
-This will cause the word “hear” to be red. We can add more properties by separating them with semicolons, like so:
+이렇게 하면 "hear"라는 단어는 빨간색으로 변하게 됩니다. 다음과 같이 세미콜론으로 구분하여 더 많은 속성을 추가할 수 있습니다:
 
 I can <em style=“color: red; background: pink”>hear</em> you!
 
-This will cause the word “hear” to be red and have a pink background.
+이렇게 하면 "hear"라는 단어는 빨간색으로 변하게 될 뿐만 아니라 분홍색 배경을 가지게 됩니다.
 
-Playing with CSS properties can be lots of fun.
-You can see a full list of them here:
+CSS 속성들을 가지고 노는것은 매우 재미난 일입니다.
+여기로 가시면 CSS 속성의 모든 목록을 볼 수 있습니다:
 https://developer.mozilla.org/en/CSS_Reference
 
-But what about when you want to make all <em> elements be styled this way? It sure is tedious to add the same style attribute to every occurrence, and this approach also makes it hard to change all the styles at once when you want to tinker. This is where CSS stylesheets come in, and they’re actually what most webpages use — but they’re also out of the scope of this tiny guide.
+그런데 모든 <em> 요소의 스타일을 이런 방식으로 바꾸려고 한다면 어떨까요? 모든 태그들에 똑같은 style 속성을 추가하는 일은 지루한 일일뿐만 아니라, 이러한 접근 방법은 나중에 무언가 스타일을 변경하는 것을 매우 힘들게 만듭니다. 이런 이유로 CSS 스타일시트를 도입하게 되었고, 실제로 대부분의 웹 페이지들이 사용하고 있습니다. (그러나 이 가이드의 범주를 벗어나는 부분이므로 자세하게 다루지는 않습니다)
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

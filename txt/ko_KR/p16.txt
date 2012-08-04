@@ -1,20 +1,20 @@
-Step 3
+단계 3
 
-HACKTIVITY KIT
+만능키트
 
-Design the Lesson Plan
+수업 계획 설계하기
 
-Break the learning goals down into small tasks that can be incorporated into your hack jam. With your team of volunteers and/or co-facilitators think about ways to embed assessment directly into the activity so that it is both a fun design activity and a meaningful learning experience.
+학습 목표를 핵 잼에 포함될 수 있는 작은 단위로 나누세요. 여러분 팀의 자원봉사자와 동료들과 함께 그 활동이 재미있는 설계 활동이 되고 의미있는 학습 경험이 되도록 평가를 직접적으로 넣을 방법을 생각해보세요.
+
 
 Start out by designing ice-breakers and opportunities to get people to contribute to the design challenge and work collectively to make something by the end of the day.
 
-Many events allow for some dedicated instruction combined with experimentation time. We have included a sample lesson plan for you to use as is, or as a template for your event’s theme of the day.
+Many events allow for some dedicated instruction combined with experimentation time. 여러분이 바로 사용할 수 있거나 참조해서 사용할 수 있는 예제 수업 계획을 포함했습니다.
+
+팁: 웹 만들기에 대해 얘기할때 자주 사용되는 용어들에 친숙해지세요.*
 
 
-TIP: Get familliar with some of the terms used commonly when talking about webmaking.*
-
-
-*Visit the Mozilla Developer Network to learn more: https://developer.mozilla.org/en/Glossary
+* 더 많은것을 배우고 싶다면 Mozilla Developer Network에 방문해보세요: https://developer.mozilla.org/en/Glossary
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

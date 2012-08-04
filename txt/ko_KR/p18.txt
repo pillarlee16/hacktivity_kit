@@ -1,42 +1,41 @@
-STEP 3
-SAMPLE LESSON PLAN
+단계 3
+수업 계획 예제
 continued
 
 2. Deliverables:
-• Participants will learn the concept of hacking through physical exercise and online tools
-• Participants will write HTML and constructively think about their roles as webmakers
+• 참가자들은 실습과 온라인 도구를 통해 해킹의 개념을 배울 것이다
+• 참가자들은 HTML을 사용해보고 웹 제작자의 입장에서 구조적으로 HTML 요소들의 역할을 생각해볼 것이다
 
 3. Learning goals:
-• Develop a basic understanding of the different parts that make up a webpage
-• Develop key web programming vocabulary
+• 웹 페이지를 구성하는 여러 다른 요소들의 기본적인 이해 기르기
+• 주요 웹 프로그래밍 용어 배우기
 • Develop key critical thinking about web terminologies
-• Develop an understanding of how participatory media (i.e. the open web)
-differs from one-directional consumption media (i.e. TV and radio)
-• Draw connections between webmaking, content creation and the participatory
-culture of the open web
+• 참여하는 매체(예: 오픈 웹)가 단방향 소비 매체(예: TV, 라디오)와 어떤 차이가 있는지 이해하기
+• 웹 제작, 콘텐츠 창작, 오픈 웹의 참여하는 문화 사이의 관계 그리기
 
 4. Skills targeted and learned:
-• Identify & alter element tags, which surround content and apply meaning to it
-• Remix content of element attributes, which appear inside tags and have their values enclosed in quotation marks
-• Remix and create elements, which are the basic building blocks of webpages • Demonstrate the ability to write a paragraph using HTML and <p> </p> tags • Change one part of a webpage to make a new webpage
-• Get inspired by websites and come up with ideas for new projects
-• Use the Hackasaurus X-Ray Goggles bookmarklet and demonstrate ability
-to use its different features
-• Understand the concept of URLs and URLs for images
+• 콘텐츠를 둘러싸고 의미를 부여하는 엘리먼트 태그들을 확인하고 수정하기
+• 태그 안에서 따옴표로 값을 감싸고 있는 요소의 속성들을 재조합하기
+• 웹 페이지의 기초 골격을 만드는 요소들 만들고 재조합하기
+• HTML과 <p> </p> 태그를 사용하여 단락을 작성하는 사례 보여주기
+• 새로운 웹 페이지를 만들기 위해 웹 페이지의 한 부분 변경하기
+• 웹사이트에서 영감을 얻어 새로운 프로젝트에 대한 아이디어 생각해보기
+• 해커사우르스 엑스레이 고글 북마크를 사용하여 다양한 기능 보여주기
+• URL과 이미지 URL의 개념이 이해하기
 
 5. Key questions:
-• What is hacking? Where can we find examples of hacks?
-• How are webpages and websites dynamic systems?
-• Which are the fundamental parts of a webpage?
-• How does a webpage change when you change one of its parts?
-• Why is it important to have open access to the Internet?
-• Why is it important that the web is designed by many individuals?
+• 해킹이란 무엇인가? 핵의 예제들은 어디서 찾을수 있나?
+• 웹 페이지와 웹 사이트들은 어떻게 동적인 시스템일수 있는가?
+• 웹 페이지의 기본적인 요소들은 무엇이 있는가?
+• 웹 페이지의 일부분을 수정하였을때 어떻게 변하는가?
+• 인터넷에 누구나 접속 할 수 있다는 것은 왜 중요한가?
+• 웹이 많은 개인들에 의해서 만들어진다는 것은 왜 중요한가?
 • Why is it important for websites to invite participation?
 
 6. Modules
 • Hack the Robot Dance (an icebreaker game)
-• Try on your X-Ray Goggles (a web design tool overview)
-• Create your own Superhero (a design challenge)
+• 엑스레이 고글 사용해보기 (a web design tool overview)
+• 자신만의 슈퍼히어로 만들어보기 (a design challenge)
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

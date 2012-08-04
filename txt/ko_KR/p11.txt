@@ -1,17 +1,17 @@
-STEP1
-HTML AND CSS BASICS
+단계1
+HTML과 CSS 기초
 
-This takes an image of a cat from seriouscat.com and puts it in the webpage after the words “This is serious!”
+이 요소는 seriouscat.com 에서 고양이 이미지를 가져와 "This is serious!"라는 단어 뒤에 놓습니다.
 
-Finally, it’s also possible to put elements inside each other, also known as nesting them:
+마지막으로, 요소들 사이에는 서로 다른 요소들을 넣을 수 있습니다:
 
 <a href=“http://en.wikipedia.org/wiki/Lolcat”>
 	<img src=”http://seriouscat.com/serious_cat_is_serious.jpg”>
 </a>
 
-This hyperlinks the picture of a cat to the Wikipedia entry on Lolcat.
+이 고양이 그림은 Wikipedia의 Lolcat이라는 항목으로 하이퍼링크를 생성합니다.
 
-You can see a complete list of all HTML elements here:
+여러분은 여기에서 HTML 요소들의 모든 목록을 볼 수 있습니다:
 https://developer.mozilla.org/en/HTML/Element
 
 Credit: seriouscat.com

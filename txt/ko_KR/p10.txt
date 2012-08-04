@@ -1,24 +1,24 @@
-STEP 1
-HTML AND CSS BASICS
+단계 1
+HTML과 CSS 기초
 
-What is HTML?
+HTML이 무엇인가요?
 
-HTML is a special language used to tell computers how to build webpages so that humans can consume them. Here’s a really simple web page:
+HTML은 컴퓨터에게 어떻게 웹 페이지를 만들지 알려주는 그 결과 사람이 그 웹 페이지를 사용할 수 있도록 해주는 특수한 언어입니다. 여기 간단한 웹 페이지 예제가 있습니다: 
 
 I can <em>hear</em> you!
 
-People with vision will see this page as a single line of text with the word hear italicized. That’s because the word is wrapped in what we call tags that tell the computer to emphasize anything between them. If a blind person were listening to the webpage, a computerized voice might place emphasis on the word hear instead.
+시각을 가지고 있는 사람들은 이 페이지에서 hear라는 단어가 이탤릭체로 되어있는것을 볼 수 있을 것입니다. 이는 그 단어가 컴퓨터에게 이 사이에 있는 단어는 강조해서 나타내야해 라고 말해주는 태그라고 불리는 것으로 감싸져있기 때문입니다. 만약 시각 장애인에 같은 웹 페이지를 음성으로 듣는다면, 컴퓨터가 그 단어는 강조해주서 읽어줄 것입니다.
 
-The combination of an opening tag — in this case, <em> —its corresponding closing tag — </em>—and the content in between is called an element. It’s a fundamental building block of a webpage.
+여는 태그와 (이 경우에는 <em>) 이에 대응되는 닫는 태그 (</em>) 그리고 그 사이에 있는 콘텐츠의 조합을 우리는 요소라고 부릅니다. 이것은 웹 페이지를 만드는 가장 기본 요소입니다.
 
-There are many kinds of elements. Aside from the <em> element, one of the most useful elements is <a>, which can be used like this:
+많은 종류의 요소들이 있습니다. <em> 요소 외에도, 가장 유용한 요소중 하나는 <a> 입니다. 이것은 이렇게 사용될 수 있습니다:
 
 <a href=“http://wikipedia.org”>Wikipedia</a> is cool.
 
-This element is slightly more complex because it includes an attribute, or piece of information that adds meaning to the element’s content. In this case, the href attribute tells a computer that “Wikipedia” is associated with — or hyperlinked to—the website wikipedia.org. That means clicking (or tapping) on the word will take the reader to Wikipedia’s website.
+이 요소는 속성이나 요소의 내용에 의미를 추가하는 정보들을 포함하기 때문에 다소 조금 더 복잡합니다. 이 경우에는, href 속성이 컴퓨터에게 "Wikipedia"는 wikipedia.org 라는 웹 사이트로 연결되어있다는 것을 말해줍니다. 그 단어를 클릭하거나 누르게 되면 Wikipedia의 웹 사이트로 이동하게 됩니다.
 
-Some elements don’t actually contain any content, and hence have no closing tag, but represent special kinds of content themselves.
-One example is the <img> tag:
+몇몇 요소들은 실제로 아무 콘텐츠를 포함하지 않으며 닫는 태그도 가지지 않지만 그들 자신만의 특별한 의미를 나타냅니다.
+한 가지 예로 <img> 태그를 들 수 있습니다:
 ￼
 This is serious!
 <img src=“http://seriouscat.com/serious_cat_is_serious.jpg”>

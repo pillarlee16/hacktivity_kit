@@ -1,12 +1,12 @@
-Step 2
+단계 2
 
-HACKTIVITY KIT
+만능키트
 
-Choose a Theme and Set Learning Goals
+테마를 선택하고 학습 목표를 정하세요
 
 Identify what the big picture learning objectives are for the event so that you can begin to craft a design challenge. Remember, the technology or media should not be the theme of the jam, just a strategy for implementation.
 
-The goal of every hack jam should be to make something. At one jam, Hacking Citizen Science on Earth Day, participants collected data about their carbon footprint, compiled that info into websites in a virtual online world, and linked their websites to an interactive game website that the New York Hall of Science had set up for the event. Meanwhile, at an Entrepreneurship 101 jam, teen designers used the Hack-asaurus tools to set up websites for their budding inventions and businesses.
+모든 핵 잼의 목표는 무언가를 만다는것이 되어야 한다. At one jam, Hacking Citizen Science on Earth Day, participants collected data about their carbon footprint, compiled that info into websites in a virtual online world, and linked their websites to an interactive game website that the New York Hall of Science had set up for the event. Meanwhile, at an Entrepreneurship 101 jam, teen designers used the Hack-asaurus tools to set up websites for their budding inventions and businesses.
 
 Set clear learning objectives and goals for out- comes so that both the youth and facilitators know
 the expectations going into the jam. Reinforce this with publicity efforts and messaging around the event.

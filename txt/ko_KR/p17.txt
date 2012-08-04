@@ -1,26 +1,27 @@
 STEP 3
-SAMPLE LESSON PLAN
+수업 계획 예제
 
-Superheroes of the Open Web
+오픈 웹의 슈퍼 히어로들
 
-Synopsis: In this hands-on workshop, learners aged 10 and up play, deconstruct and modify websites in order to understand how to create content for, and build, webpages. Participants use the Mozilla Hackasaurus tools to guide them through the process of remixing images, text and style while learning basic web design and programming concepts. Participants experiment with the X-Ray Goggles bookmarklet, a tool that allows users to see and manipulate the HTML and CSS that make up webpages.
-Using the Goggles and other open source web-based tools, participants will respond to design challenges that offer them a chance to use these newly acquired programming skills.
+개요: 이 실습 워크샵에서, 10살 이상의 학습자들은 어떻게 콘텐츠를 생산하고 웹 페이지를 만드는지 이해하기 위해 웹 사이트들을 만져도고, 부셔보고 수정도 해봅니다. 참가자들은 Mozilla 해커사우르스 도구들을 사용하여 이미지, 문자, 스타일을 재조합하는 과정을 익히게 됩니다. 그리고 웹 디자인의 기초와 프로그래밍 개념들을 배웁니다. 참가자들은 엑스레이 고글 북마크(사용자들이 웹 페이지를 구성하고 있는 HTML과 CSS를 보고 만들어볼 수 있는 도구)를 사용해봅니다.
+고글과 다른 웹 기반 오픈 소스 도구들을 사용하면서, participants will respond to design challenges that offer them a chance to use these newly acquired programming skills.
 
-Duration: This three-part lesson plan can either take one full day or be broken up into separate modules.
+기간: 이 3부로 된 수업 계획은 하루가 걸리거나 여러 모듈로 나누어 진행할 수 있습니다.
 
-Badges
-Learning today happens everywhere, not just in the classroom. But it’s often difficult to get recognition for skills and achievements that happen outside of school. Mozilla’s Open Badges project is working to solve that problem, making it easy for anyone to issue, earn and display badges across the web through a shared infrastructure that’s free and open to all.
-The result: helping learners everywhere display 21st century skills, unlock career and educational opportunities, and level up in their life and work.
+배지
+오늘날 배움의 공간은 교실뿐만 아니라 어느곳이든지 될 수 있습니다. 그러나 학교 밖에서 얻게된 기술들이나 성취들은 인정받기가 어렵습니다. Mozilla의 오픈 배지 프로젝트는 그 문제를 해결해주고, 무료에다가 누구에게나 열려있는 공유된 인프라인 웹을 통해 누구나 쉽게 배지를 만들고 얻고 보여줄수 있게 해줄 것이다.
+결과: helping learners everywhere display 21st century skills, unlock career and educational opportunities, and level up in their life and work.
 
 Assessment: A Hackasaurus Superheroes of the Open Web Learning Rubric is available for learner assessment at the end of this section.
 
 1. Big ideas of the day:
-• Hacking means changing a piece of something to create something new
-• Web designers get inspired by existing websites to come up with new ones • Webpages are written with HTML and styled with CSS
-• Websites are dynamic systems that are easily changeable
+• 해킹은 새로운 무언가를 창조하기 위해 일부분을 변경하는것을 의미한다
+• Web designers get inspired by existing websites to come up with new ones
+• 웹 페이지는 HTML로 작성되고 CSS로 스타일을 입힌다
+• 웹 사이트는 쉽게 변경할 수 있는 동적인 시스템이다
 • A website designer works with inter-related parts
-• Parts of a webpage include HTML, CSS, graphic assets and text content
-• The open web is a place where anyone can participate and contribute information
+• 웹 페이지는 HTML, CSS, 그래픽 요소, 문자 콘텐츠를 포함한다
+• 오픈 웹은 누구나 참여하고 정보를 기부할 수 있는 공간이다
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

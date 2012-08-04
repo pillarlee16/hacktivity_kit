@@ -1,7 +1,7 @@
-STEP 2
-LEARNING OBJECTIVES
+단계 2
+학습 목표
 
-Your event or class should have specific, targeted learning objectives. Here are some of the learning goals for the Hackasaurus project you may wish to borrow or put in your own words.
+여러분의 행사나 수업은 구체적인 학습 목표를 가져야 합니다. 여기 인용하거나 참조할만한 해커사우르스 프로젝트의 학습 목표들이 있습니다.
 
 Browser basics: skills required for “retrieving, presenting and traversing information resources on the world wide web” (wikipedia definition). These include:
 • Identifying where the address bar is within the browser

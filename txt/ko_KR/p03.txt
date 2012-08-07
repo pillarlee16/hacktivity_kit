@@ -5,6 +5,6 @@
 해커사우르스 프로젝트는 사람들에 웹 상에서 무언가를 만들고 프로토파이핑하는 방법을 알려주기 위한 Mozilla의 커다란 학습 계획중의 일부입니다. 해커사우르스는 해커사우르스는 모든 이들에게 단지 웹을 수동적으로 소비하기 보다는 콘텐츠를 생산하고 활동적인 참여자가 되기 위한 힘을 줍니다.
 이를 위해, 해커사우르스는 웹의 구조를 빠르게 학습하고 쉽게 웹 페이지를 만들어볼 수 있는 다운로드 가능한 도구들을 개발해왔습니다.
 만능키트는 이러한 도구들을 설명하고 이를 웹만들기에 중점을 두고 있는 어린이 행사나 수업들에 어떻게 적용하는지를 알려줍니다.
-Use the kit, be inspired and wherever possible remix it to work in your school, class or program.
+영감을 받거나 여러분의 학교, 반이나 프로그램에서 핵을 구성하기 하려는 언제든지, 만능키트를 사용하세요.
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

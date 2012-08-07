@@ -1,29 +1,31 @@
-STEP 3
-MODULE 2
+단계 3
+모듈 2
 
+엑스레이 고글 사용해보기
 
-Try on Your X-Ray Goggles
+1. 개요
+기존에 존재하는 웹 페이지를 해킹하고 고쳐봄으로써 참가자들의 첫번째 웹 페이지를 만드는것이 목표이다. 참가자들은 두 종료의 배지를 획들할 수 있다. (웹 브라우징을 처음 접해보는 학습자를 위한 네비게이터 배지와 이미 웹 브라우징 경험이 있고 HTML을 해킹해보는 단계로 넘어가는 학습자를 위한 리믹서 배지가 있다)
 
-1. Overview
-The goal is for participants to create their first webpage by hacking and tinkering with an existing webpage. Participants may pledge for two types of badges — the Navigator badge for learners who are new to web browsing and the Remixer badge for learners who are already familiar with web browsing and are moving on to hacking HTML.
-
-2. Materials you’ll need
-• Computers with high-speed Internet connection
-• Computers available for participants/team of participants
-• Hackasaurus X-Ray Goggles installed on a modern web browser
-e.g. FireFox, Chrome, Safari, Opera, with the latest browser versions updated
-(Please note: Hackasaurus currently does not support Internet Explorer.) • Projector
-• HTML and CSS cheat sheets
+2. 필요한 준비물
+• 빠른 속도의 인터넷
+• 참가자들이 사용할 수 있는 컴퓨터
+• 최신 웹 브라우저에 설치 되어있는 해커사우르스 엑스레이 고글 
+예: 최신 버전으로 업데이트된 FireFox, Chrome, Safari, Opera
+(참고 사항: 현재 해커사우르스는 인터넷 익스플로러를 지원하지 않습니다)
+• 프로젝터
+• HTML 과 CSS 요약표
 
 3. Facilitator procedure
 Demonstrate how to hack the webpage and then go over the steps in a slow, clear manner:
-• Tell participants that they will be hacking a website
-• Ask participants to call out the name of a website that they regularly visit • If no one responds or if you have slow Internet, go to google.com because it loads fairly quickly
-• Turn on the Goggles. You can do this by clicking on the bookmarklet in your bookmark toolbar
-• Using the Goggles, slowly hover the cursor over objects so that participants can see that the tool is inspecting the code and showing the object tags for each object
-• Hover over an image or some text on the page and hit “R” on your keyboard • Keep this screen up so that participants can see that the code is revealed at this stage
-• Ask participants for help hacking the code. If you are editing text, ask participants what text they would like to replace the text with; if you are changing an image ask participants to name their favorite musician and do a search for that musician online
-• After you have acquired the assets and made the changes, hit the OK button and show everyone the hack
+• 참가자들에게 웹 사이트를 해킹할거라고 말해준다
+• 참가자들에게 평소에 자주 방문하는 웹 사이트의 이름을 말해보라고 한다
+• 만약 아무도 대답하지 않거나 누군가 인터넷이 느리다면 꽤 빠르게 불러올 수 있는 google.com으로 접속을 한다
+• 고글을 켠다. 북마크 툴바에 저장되어있는 고글 북마크를 클릭하면 실행할 수 있다
+• 고글을 사용하여 천천히 객체들 위로 커서를 올려본다. 참가자들은 고글이 코드를 조사하고 각 객체에 대한 태그를 보여주는것을 볼 수 있다
+• 페이지에 있는 이미지나 글자 위로 마우스를 올려놓은 다음 키보드의 "R" 키를 누른다
+• 화면을 띄워놓고 참가자들이 이 단계에서 나타난 코드를 볼 수 있게 한다
+• 참가자들에게 이 코드를 해킹하는 것을 도와달라고 한다. 만약 글자를 수정한다면, 참가자들에게 어떤 글자를 바꾸고 싶은지 물어보세요. 만약 이미지를 변경한다면 좋아하는 가수가 누구인지 물어보고 그 가수 사진을 검색하세요
+• 코드를 변경한 다음, 확인 버튼을 누르고 모두에게 변경된 모습을 보여주세요
 • Now, show everyone how to do this step by step and, whenever possible, refer back to the steps that you defined for hacking with the Hack this Dance module
 
 

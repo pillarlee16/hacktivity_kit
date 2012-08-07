@@ -1,29 +1,32 @@
-STEP 3
-MODULE 2
+단계 3
+모듈 2
 continued
 
-Break into teams and use the X-Ray Goggles
+팀을 이루어 엑스레이 고글 사용해보기
 
 • Steps:
-Turn on the X-Ray Goggles bookmarklet
-	— Look at the code, point out the tags, attributes and elements — Find the object tags that you want to change or replace
-	(e.g. <p> or <img>)
-	— Change one part of the webpage
-	— Hack: hit the “commit changes” button to save changes locally on your computer
-	— Share the hack: hit “T” to publish the new webpage on the Internet
+엑스레이 고글 북마크를 켠다
+	— Look at the code, point out the tags, attributes and elements
+	— 바꾸거나 교체하고 싶은 객체 태그를 찾는다
+	(예: <p> 또는 <img>)
+	— 웹 페이지의 한 부분을 변경한다
+	— 핵: 컴퓨터의 로컬에 변경된 내용을 저장하기 위해 "commit changes" 버튼을 누른다
+	— Share the hack: 새로운 웹 페이지를 인터넷에 배포하기 위해 "T"를 누른다
 
-4. Pledging for badges
+4. 배지 획득하기
 
-At this point participants can pledge for either the Navigator or Remixer badge. To qualify for the Navigator badge, participants must:
+여기까지 오면 참가자들은 네비게이터 배지 또는 리믹서 배지를 획들 할 수 있다. 다음을 만족시키면 네비게이터 배지를 획득할 수 있다:
 
-• Open up the browser
-• In the address bar, type:http://navigator.hackasaurus.org
-• Complete the mission to receive the badge • Superpower earned: Enhanced web agility
+• 브라우저를 열어본다
+• 주소창에 http://navigator.hackasaurus.org 라고 입력한다
+• 배지를 받기 위해 필요한 미션을 완수한다
+• Superpower earned: Enhanced web agility
 
-To qualify for the Remixer badge, participants need to complete the following tasks:
-• Go to www.google.com
-• Using the Goggles, replace the Google logo with an image
-• Using the Goggles, change or add text to the webpage • Superpower: X-ray vision
+리믹서 배지를 획득하려면, 참가자들은 다음 일들을 완료해야한다:
+• www.google.com 으로 간다
+• 고글을 사용하여 Google 로고를 이미지로 교체한다
+• 고글을 사용하여 웹 페이지의 글자를 변경하거나 추가한다
+• Superpower: X-ray vision
 
 
 5. Discussion

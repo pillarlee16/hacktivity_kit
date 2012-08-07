@@ -1,18 +1,18 @@
-CSS CHEAT SHEET
+CSS 요약표
 
-It is used to indicate where a unit can be used. Don't forget to add % or px after the number depending on what you're using.
+각 단위를 어디서 사용될 수 있는지 나타낸다. 여러분이 사용한 요소의 숫자 다음엔 %나 px를 추가해야 함을 잊지 말자. 
 
-Remember to use American spellings.
+영어철자를 사용한다는 걸 기억하자.
 
-Writing CSS
+CSS 쓰기
 
-Color
+색상
 
-Lists
+목차
 
-Text
+글자
 
-The Box Model
-Total width of a box = width + margin + padding + border
+상자모양
+상자의 길이 = 지정한 길이 + 여백 + padding + 가장자리
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

@@ -1,16 +1,16 @@
-<HACKASAURUS>
+<해커사우루스>
 
-X-RAY GOGGLES CHEAT SHEET
+엑스레이 고글 요약표
 
-R REMIX an element
-I INSPECT an element
-P PUBLISH your hack
-esc ESCAPE to deactivate goggles
-delete or or backspace DELETE an element
-↞ UNDO
-↠ REDO
-↟ ASCEND to parent element
-↡ DESCEND from parent element
+R 요소 재구성하기
+I 요소 점검하기
+P 작품 출판하기
+esc 고글 끄기
+delete or backspace 요소 삭제하기
+↞ 되돌리기
+↠ 다시하기
+↟ 상위요소로 가기
+↡ 하위요소로 가기
 
 www.ahckasaurus.org
 

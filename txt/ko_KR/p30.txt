@@ -1,16 +1,16 @@
-STEP 4
-I.I. CHECKLIST
+네번째 단계
+I.I. 확인사항
 
-q Make sure that the jam space has a stable enough Internet connection for the number of students expected.
+q 개발공간에는 여러 명의 학생들이 안정적으로 인터넷에 연결가능해야 합니다.
 
-q Have laptops or PCs available for students or teams of students.
+q 학생들이 사용할 랩탑 혹은 PC를 충분히 준비하세요.
 
-q Install the most up-to-date version of Firefox, Chrome or Safari on the computers. (Right now the Hackasaurus tools work reliably on the latest versions of Firefox, Chrome and Safari, but support for more browsers is on the way.)
+q 최신 브라우저(Firefox, Chrome, Safari)를 설치하세요. (현재 해커사우루스툴은 Firefox, Chrome, Safari 만 지원하고 있습니다.)
 
-q Check that the Goggles bookmarklet can be installed and works in your setup. If possible, pre-install the bookmarklet on all the computers to save time during the jam.
+q 고글 북마크렛이 설치가능한지 확인해보세요. 설치가 가능하다면 모든 컴퓨터에 북마클렛을 미리 설치해놓으세요.
 
-q Set up a projector to a computer so that you can demo things on a screen that everyone can see and students can share their work.
+q 프로젝터를 설치하세요. 프로젝터는 여러분이 시연하거나 학생들이 자신들의 작품을 선보이기 위해 사용하게 됩니다.
 
-You can run Firefox and the Goggles off of a USB stick too: http://portableapps.com/apps/internet/firefox_portable Check that this works on the computers though, as some places have firewalls that restrict the use of external devices.
+여러분은 파이어폭스와 고글을 USB메모리에 담아서 사용할 수 있습니다.: http://portableapps.com/apps/internet/firefox_portable 몇몇 장소에서는 외부장치를 제한될 수 있으니 사용가능한지 확인해보세요.
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

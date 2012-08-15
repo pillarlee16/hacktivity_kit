@@ -11,6 +11,6 @@ q 고글 북마크렛이 설치가능한지 확인해보세요. 설치가 가능
 
 q 프로젝터를 설치하세요. 프로젝터는 여러분이 시연하거나 학생들이 자신들의 작품을 선보이기 위해 사용하게 됩니다.
 
-여러분은 파이어폭스와 고글을 USB메모리에 담아서 사용할 수 있습니다.: http://portableapps.com/apps/internet/firefox_portable 몇몇 장소에서는 외부장치를 제한될 수 있으니 사용가능한지 확인해보세요.
+여러분은 Firefox와 고글을 USB메모리에 담아서 사용할 수 있습니다.: http://portableapps.com/apps/internet/firefox_portable 몇몇 장소에서는 외부장치를 제한될 수 있으니 사용가능한지 확인해보세요.
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

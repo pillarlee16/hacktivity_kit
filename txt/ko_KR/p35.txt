@@ -1,47 +1,46 @@
 HTML CHEAT SHEET
 
-All content needs to be within the <body> tags.
+모든 요소들은 <body> tags 안에 존재해야 합니다.
 
-Writing HTML
+HTML 작성하기
 
-Text
-	paragraph
-	unordered list
-	ordered list
-	main heading
-	sub headings
-	bold text
-	italic text
+글
+	단락
+	순서가 없는 목록
+	순서가 있는 목록
+	대 제목
+	소 제목
+	굵게
+	이탤릭체
 	hook for inline styling
 
-Links
-	link to external site
-	link to page within site
+링크
+	외부 사이트로 링크하기link to external site
+	사이트 내의 페이지로 링크하기
 	link to element with id in page
 
-Structure
-	group of content
-	A section of the page
+구조
+	콘텐츠 그룹
+	페이지 섹션
 
-Table
-	table
-	table heading
-	table data
-	table row
-
-Form
-	form
-	form label
-	input
+표
+	표
+	표 제목
+	표 내용
+	표 열
+양식
+	양식
+	양식 라벨
+	입력칸
 	drop-down box
 	textarea
-	button
+	버튼
 
-Images
-	image
+이미지
+	이미지
 	figure (containing an image and caption)
 
-Navigation
+네비게이션
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

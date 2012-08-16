@@ -2,14 +2,14 @@ Resources
 
 HACKTIVITY KIT
 
-In this section you’ll find a selection of support documents you can use as you plan and host your Hackasaurus hack jam. Some might take a little extra work — you might want to make the recruitment poster larger, for instance, and you’ll probably want to cut up the individual badges before the actual event. But otherwise, just photocopy as many copies as you’ll need, distribute — and let the hacking commence!
+이 섹션에서는 여러분이 해커사우르스 핵 잼을 계획하고 주최하는데 도움이 될 수 있는 지원 문서들을 모아 놓았습니다. 어떤 것들은 사용하려면 조금 더 추가적인 작업이 필요합니다 — 예를 들어, 모집 포스터를 더 크게 만들고 싶다거나, 실제 행사 전에 배지를 잘라서 사용하고 싶다거나 하는 경우가 있을 수 있습니다. 그러나 단순한 출력물 같은 경우에는 원하는 만큼 복사해서 바로 사용할 수 있습니다 — 자 그럼 해킹을 시작해봅시다!
 
-Recruitment Poster
-Recruitment Form
-HTML Cheat Sheet
-CSS Cheat Sheet
-X-Ray Goggle Cheat Sheet
-Hackasaurus Badges
+모집 포스터
+모집 문서형식
+HTML 요약표
+CSS 요약표
+엑스레이 고글 요약표
+해커사우르스 배지
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

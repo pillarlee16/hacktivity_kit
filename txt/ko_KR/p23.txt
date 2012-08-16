@@ -1,22 +1,23 @@
-STEP 3
-MODULE 3
-continued
+단계 3
+모듈 3
+계속됨
 
-Defend the open web
+오픈 웹 수호하기
 
-1. Overview:
-The goal is to introduce participants to an organic, interactive design process for webmaking. Participants will discuss what it means to have an open web and create fictional superhero identities and web assets (websites, content, imagery, etc.) to defend the open web. A prototyping station is available for those kids who may wish to start with an analog version. During the module, participants will pledge for several badges. During the module, participants will pledge for several badges.
+1. 개요:
+참가자들에게 웹 제작을 위해 유기적이고 상호작용하는 디자인 프로세스를 소개하는 것이 목표이다. 참가자들은 참가자들은 오픈 웹을 가진다는 것이, 가상의 슈퍼 히어로와 웹 자료들 (웹 사이트, 콘텐츠, 이미지 등등)을 만든다는 것이 무엇을 의미하는지 토의하게 될 것이다. 프로토타이핑 station은 아날로그 버전으로 시작하기를 원하는 아이들에게 적합하다. 이 모듈에서는, 참가자들이 여러 종류의 배지를 얻게 될 것이다.
 
-2. Materials you’ll need
-• Computers with reliable Internet connection • X-Ray Goggles bookmarklet installed
+2. 필요한 준비물
+• 인터넷에 연결된 컴퓨터들
+• 설치된 엑스레이 고글 북마크
 • Supplies for station activities:
 	Computers set up with Hackasaurus tools Paper supplies
-	Scissors
-	Glue
-	LegoTM blocks
-	Markers
-	Camera or computers with image editing software (e.g. Aviary http:// www.aviaryeducation.com/ or other open image editing software)
-• A blog or another web-based repository for everyone to post their work such as www.blogger.com, www.wordpress.com or www.tumblr.com
+	가위
+	풀
+	레고 블럭
+	마커
+	카메라 또는 이미지 편집 소프트웨어가 설치 된 컴퓨터 (예: Aviary http:// www.aviaryeducation.com/ 또는 다른 이미지 편집 소프트웨어)
+• 누구나 작업물을 올릴 수 있는 www.blogger.com, www.wordpress.com or www.tumblr.com 같은 블로그 또는 다른 웹 기반 저장소
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

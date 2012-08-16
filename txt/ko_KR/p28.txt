@@ -7,16 +7,17 @@ Superheroes of the Open Web Assessment
 Badge WORDSMITH
 Type Specialist
 Learning Goals
-• Develop skill of writing for the web • Advanced remixes of html and web browsing/ research
+• 웹에 대한 작문 능력을 개발한다
+• Advanced remixes of html and web browsing/ research
 HACKtivities to Complete
-• Visit a website
-• Use X-ray goggles to hack into a paragraph on the site
-• Write a story based on superhero created in Producer badge
+• 웹 사이트에 방문한다
+• 사이트의 단락을 hack 하기 위해 엑스레이 고글을 사용한다
+• Producer 배지가 만들어낸 슈퍼히어로를 기반으로 스토리를 만든다
 
 Badge SUPER STYLER
 Type Skill
 Learning Goals
-• Gain basic understanding of CSS and its functions
+• 기초적인 CSS의 이해와 그 기능을 습득한다
 • Demonstrates ability to impact the design of a webpage using CSS functions
 HACKtivities to Complete
 • Incorporate style hacks into their designs by changing the computed style of elements on a page by using Hackasaurus goggles and change the style by clicking “R”
@@ -24,23 +25,24 @@ HACKtivities to Complete
 Badge WEBMAKER
 Type Skill
 Learning Goals
-• Demonstrate basic understanding of domain
-• Understand the box model and selectors
-• Demonstrates an understanding of DOM
+• 도메인의 기초적인 이해를 보여준다
+• 박스 모델과 셀렉터를 이해한다
+• DOM의 이해를 보여준다
 HACKtivities to Complete
-• Open up webpad and build web pages using original content (e.g. bio of superhero) in webpad
-• Create a website using webpad
-• Incorporate styles into the hacks • Publish webpage within unique URL
+• webpad를 열고 원본 콘텐츠(예: bio of superhero)를 사용하여 웹 페이지를 제작한다
+• webpad를 사용하여 웹 사이트를 만든다
+• Incorporate styles into the hacks
+• 고유의 URL로 웹 페이지를 발행한다
 
 Badge PEER CODER
 Type Mentor
 Learning Goals
-• Demonstrate ability to work collaboratively
-• Demonstrate ability to create web content that is accessible for other users
-• Demonstrate ability to code html and/or CSS with a collaborator
+• 협업 능력을 보여준다
+• 다른 사람들이 접근 할 수 있는 웹 콘텐츠를 생산 할 수 있는 능력을 보여준다
+• 동료와 함께 html 또는 CSS 코드를 작성 할 수있는 능력을 보여준다
 HACKtivities to Complete
-• Nomination from a peer during hack jam
-• Assisted another participant/peer with coding and CSS styling
+• 핵 잼 기간 동안 동료로부터 지명 받기
+• 다른 참가자나 동료들이 코딩하고 CSS 스타일링 하는 것을 도와주기
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

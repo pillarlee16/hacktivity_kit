@@ -1,14 +1,14 @@
-<HACKASAURUS>
+<해커사우르스>
 mozilla
 
-Volunteer Today!
+자원봉사자로 지원하세요!
 
 Hang out! Geek out! Use your skills to help teens become active webmakers.
 
-[Event Title]
-[Date]
-[Location]
+[행사명]
+[일시]
+[위치]
 
-JOIN US FOR A HACK JAM!
+함께 핵 잼을 만들어봐요!
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

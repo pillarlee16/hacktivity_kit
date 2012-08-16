@@ -8,27 +8,27 @@ Tour the stations
 • Have participants visit the various stations and allow them to work either
 in groups or individually; If possible, it is ideal to have facilitators at each station to support participants
 
-4. Presentations
+4. 발표
 
-• Have participants talk about their superheroes and display the work they have done
+• 참가자에게 자신의 슈퍼히어로에 대해 얘기하고 자신의 작품을 보여주도록 하세요
 • Following the presentations, facilitators should direct participants to other resources in their community or online to learn more about hacking and web design/development
-• Provide individual constructive feedback during presentations
+• 발표 동안 건설적인 피드백을 주세요
 
-5. Pledging for badges
+5. 배지 획득하기
 
-At each station, participants should be able to pledge for a Producer, Word- smith or Webmaker badge and nominate someone for a Peer Coder badge.
+각 지점에서, 참가자들은 Producer, Wordsmith, Webmaker 배지를 획득 할 수 있고, 누군가에게 Peer Coder 배지를 줄 수도 있습니다
 
-To qualify for the Producer badge, participants will need to complete the following tasks:
-• Design the visual representation of a superhero
-• Prepare content for the web
-• Place content on a website
+Producer 배지를 획득하기 위해서는, 참가자들은 다음 항목을 완수해야 합니다:
+• 슈퍼히어로의 외형 디자인하기
+• 웹을 만들기 위한 콘텐츠 준비하기
+• 웹 사이트에 콘텐츠 배치하기
 • Superpower: Design Dexterity
 
-To qualify for the Wordsmith badge, participants will need to complete the following tasks:
+Wordsmith 배지를 획득하기 위해서는, 참가자들은 다음 항목을 완수해야 합니다:
 Participants must complete the following tasks:
-• Visit a news website
-• Using the X-Ray Goggles, hack into a paragraph on the site
-• Write a story about how the partivipant’s character saved or protected the open web
+• 뉴스 웹 사이트 방문하기
+• 엑스레이 고글을 사용하여, 그 사이트의 단락 해킹하기
+• 참가자의 캐릭터가 어떻게 오픕 웹을 지키고 보호할 수 있는지에 대한 이야기 적기
 • Superpower: Ciphering
 
 

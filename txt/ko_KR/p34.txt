@@ -1,13 +1,13 @@
 <HACKASAURUS>
 
 We are running a hack jam on __________________________ at ___________________ for youth ages 10-15 and are looking for volunteers (teenagers and adults) with design, HTML, CSS, publicity, video superpowers and skills. Get involved by signing up below.
+우리는 __________________________ 에 __________________________ 에서 10-15세 아이들을 대상으로 하는 핵 잼을 진행할 예정입니다. 디자인, HTML, CSS, 홍보, 영상물 편집에 재능이 있는 자원봉사자를 모집하고 있습니다. 참여하고자 하시는 분은 아래에 이름과 연락처를 남겨주세요.
 
+이름
+이메일
+할 수 있는 일
 
-NAME
-EMAIL
-YOUR SKILLS
-
-BRING YOUR SUPERPOWER SKILLS!
+여러분의 능력을 보여주세요!
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html

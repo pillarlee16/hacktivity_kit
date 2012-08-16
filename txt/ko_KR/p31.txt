@@ -2,13 +2,13 @@ Step 5
 
 HACKTIVITY KIT
 
-Work in Teams and Share
+팀으로 작업하고 공유하기
 
-Let teens work together in teams and throughout the jam encourage them to take on specific roles on their project., such as visual designer, coder, project manager, documentarian, etc.
+아이들이 팀으로 작업하도록 하세요. 그리고 잼을 진행하는 동안 각자 비쥬얼 디자이너, 코더, 프로젝트 매니저, 문서관리자 등 과 같이 구체적인 역할을 맡겨 더 적극적으로 참여할 수 있도록 하세요.
 
-Have them present what they did, encouraging conversation about process and techniques. In just one sentence, everyone shares something useful that they learned. If someone says some thing interesting, shout it out and let them know that you agree. Embed a lightweight de-brief into the sharing of useful things. Take lots of photos throughout the jam and as soon as it’s over, upload them to a public repository like Flickr.
+서로에게 직접 만든것을 보여주고, 프로세스와 기술들에 대한 대화를 나누도록 시키세요. In just one sentence, 모두가 자신들이 배운 유용한 것들을 공유하게 됩니다. If someone says some thing interesting, shout it out and let them know that you agree. Embed a lightweight de-brief into the sharing of useful things. 잼을 진행하는 동안 사진을 많이 찍으세요. 그리고 행사가 끝나자마자 Flickr와 같은 개인 저장소에 사진을 올려주세요.
 
-TIP: When working with minors (under the age of 18) have parents sign permission slips.
+팁: 아이들(18세 이하)과 함께 작업할 때에는 꼭 부모 허가 동의서를 받아두세요.
 
 
 2011 by individual mozilla.org contributors. Content available under a Creative Commons license. http://www.mozilla.org/foundation/licensing/website-content.html
